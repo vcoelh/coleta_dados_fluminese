@@ -36,6 +36,3 @@ pip install -r requirements.txt
 ```bash
 python coletor_fluminense.py
 ```
-
-## Licença
-Este projeto é licenciado sob a Licença MIT - veja o arquivo LICENSE para detalhes.
