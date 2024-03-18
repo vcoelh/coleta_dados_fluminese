@@ -31,9 +31,7 @@ venv/Scripts/activate
 ```bash
 pip install -r requirements.txt
 ```
-5° Configure as opções no arquivo config.yml.
-
-6° Execute o script fluminense.py:
+5° Execute o script fluminense.py:
 
 ```bash
 python coletor_fluminense.py
