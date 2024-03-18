@@ -19,13 +19,21 @@ Certifique-se de ter as seguintes dependências instaladas:
 ```bash
 git clone https://github.com/seu_usuario/nome_do_repositorio.git
 ```
-2° Instale as dependências:
+2° Crie um Virtual Envirement:
+```bash
+python -m venv venv
+````
+3° Vá para o ambiente virtual (Em Windows): 
+```bash
+venv/Scripts/activate
+```
+4° Instale as dependências:
 ```bash
 pip install -r requirements.txt
 ```
-3° Configure as opções no arquivo config.yml.
+5° Configure as opções no arquivo config.yml.
 
-4° Execute o script fluminense.py:
+6° Execute o script fluminense.py:
 
 ```bash
 python coletor_fluminense.py
