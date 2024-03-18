@@ -17,7 +17,7 @@ Utiliza YAML para configurar parâmetros como Filtragem por data (bool), Código
 ## Como usar
 1° Clone este repositório:
 ```bash
-git clone https://github.com/seu_usuario/nome_do_repositorio.git
+git clone https://github.com/vcoelh/coleta_dados_fluminese.git
 ```
 2° Crie um Virtual Envirement:
 ```bash
